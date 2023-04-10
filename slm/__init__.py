@@ -14,3 +14,4 @@ browser.get("https://bot.sannysoft.com/")
 time.sleep(1000)
 
 
+browser.quit()
